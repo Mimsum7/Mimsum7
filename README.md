@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mimsum7
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C#
 - ⚡ Fun fact: I am a software engineering student
 
 <!---
