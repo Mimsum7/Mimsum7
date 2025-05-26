@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mimsum7
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m Michaela
+- 👀 I’m interested in web and software development
 - 🌱 I’m currently learning Python and C#
 - ⚡ Fun fact: I am a software engineering student
 
